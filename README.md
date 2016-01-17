@@ -4,7 +4,7 @@ A one-page portfolio website to show my web dev projects. I wanted the design to
 
 ### Wireframe
 
-<img src="images/wireframe.jpg">
+![wireframe](images/wireframe.jpg?raw=true)
 
 ### Tech
 
